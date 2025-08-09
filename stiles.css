@@ -61,6 +61,7 @@
 
         .titulo-factura p {
             margin-top: 5px;
+            text-align: center;
         }
 
         .titulo-factura p strong {
@@ -186,6 +187,8 @@
 
         .titulo-factura h1 {
             font-size: 40px;
+            display: grid;
+            justify-content: center;
         }
 
         .gracias {
@@ -221,4 +224,5 @@
             margin-top: 20px;
         }
     }
+
    
